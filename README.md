@@ -5,9 +5,9 @@ I'm a physicist turned AI engineer. By day I build AI solutions, multi-agent sys
 **What's here**
 
 - [**DimonAPP**](https://github.com/Jeremy009/BMC-DimonAPP-Public): worker admin and Dimona declarations for the climbing club I run, deployed on GCP
-- [**BMC Caisse**](https://github.com/Jeremy009/BMC-Caisse-Python): the club's legacy till app, first version in ([C++](https://github.com/Jeremy009/BMC-Caisse-Cpp) and second version in [Python](https://github.com/Jeremy009/BMC-Caisse-Python))
-- [**Coinbot**](https://github.com/Jeremy009/TOY-Coinbot): a toy crypto trading bot with a SwiftUI front end
-- [**Pac-Man**](https://github.com/Jeremy009/VUB-Pacman) in C++/Qt
-- [**Snake**](https://github.com/Jeremy009/VUB-Snake) in x86 assembly: leftovers from university
+- [**BMC Caisse**](https://github.com/Jeremy009/BMC-Caisse-Python): the club's legacy till app, first version in [C++](https://github.com/Jeremy009/BMC-Caisse-Cpp) and second version in [Python](https://github.com/Jeremy009/BMC-Caisse-Python)
+- [**Coinbot**](https://github.com/Jeremy009/TOY-Coinbot): a toy crypto trading bot with a SwiftUI front end. One day I will finish what I have started...
+- [**Pac-Man**](https://github.com/Jeremy009/VUB-Pacman): a Pacman clone written in C++
+- [**Snake**](https://github.com/Jeremy009/VUB-Snake): a snake clone written in x86 assembly
 
-**Usually reaching for:** Python, FastAPI, Pydantic, PyTorch, Docker, Claude / Azure OpenAI, MLX
+**Usually reaching for:** Python, FastAPI, Pydantic, PyTorch, Docker, Claude, Azure, OpenAI, ...
