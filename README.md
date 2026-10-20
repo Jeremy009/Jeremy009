@@ -1,7 +1,6 @@
-# Hi, I'm Jeremy 👋
+# Hey, I'm Jeremy!
 
-Physicist turned AI engineer. By day I build multi-agent systems and RAG
-pipelines, mostly in private repos. This is where the side projects live.
+I'm a physicist turned AI engineer. By day I build AI solutions, multi-agent systems and RAG pipelines for large enterprises and by night I contribute to my climbing gym's operations. This repo is where I keep track of some pet projects, some student assignments, and some apps actually used in the climbing gym.
 
 **What's here**
 
