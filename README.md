@@ -7,6 +7,8 @@ I'm a physicist turned AI engineer. By day I build AI solutions, multi-agent sys
 - [**DimonAPP**](https://github.com/Jeremy009/BMC-DimonAPP-Public): worker admin and Dimona declarations for the climbing club I run, deployed on GCP
 - [**BMC Caisse**](https://github.com/Jeremy009/BMC-Caisse-Python): the club's legacy till app, first version in [C++](https://github.com/Jeremy009/BMC-Caisse-Cpp) and second version in [Python](https://github.com/Jeremy009/BMC-Caisse-Python)
 - [**Coinbot**](https://github.com/Jeremy009/TOY-Coinbot): a toy crypto trading bot with a SwiftUI front end. One day I will finish what I have started...
+- [**PET reconstruction**](https://github.com/Jeremy009/VUB-PET-Reconstruction): my master thesis, comparing two algorithms (MLEM and ISRA) that reconstruct PET scans, in MATLAB
+- [**Higgs boson search**](https://github.com/Jeremy009/VUB-Higgs-ZZ-4L): my bachelor thesis, a search for the Higgs boson decaying to four leptons in 2012 CMS data, in C++ with ROOT
 - [**Pac-Man**](https://github.com/Jeremy009/VUB-Pacman): a Pacman clone written in C++
 - [**Snake**](https://github.com/Jeremy009/VUB-Snake): a snake clone written in x86 assembly
 
