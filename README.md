@@ -4,7 +4,7 @@ I'm a physicist turned AI engineer. By day I build AI solutions, multi-agent sys
 
 **What's here**
 
-- [**DimonAPP**](https://github.com/Jeremy009/BMC-DimonAPP-Public): worker admin and Dimona declarations for the climbing club I run, deployed on GCP
+- [**DimonAPP**](https://github.com/Jeremy009/BMC-DimonAPP-Public): worker admin and Dimona declarations for the climbing club I run, deployed on GCP, with an [MCP server](https://github.com/Jeremy009/BMC-DimonAPP-Public#asking-claude-the-mcp-server) that lets admins query it from Claude without any personal data reaching the model
 - [**BMC Caisse**](https://github.com/Jeremy009/BMC-Caisse-Python): the club's legacy till app, first version in [C++](https://github.com/Jeremy009/BMC-Caisse-Cpp) and second version in [Python](https://github.com/Jeremy009/BMC-Caisse-Python)
 - [**Coinbot**](https://github.com/Jeremy009/TOY-Coinbot): a toy crypto trading bot with a SwiftUI front end. One day I will finish what I have started...
 - [**PET reconstruction**](https://github.com/Jeremy009/VUB-PET-Reconstruction): my master thesis, comparing two algorithms (MLEM and ISRA) that reconstruct PET scans, in MATLAB
