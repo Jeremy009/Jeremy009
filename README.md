@@ -1,10 +1,11 @@
 # Hey, I'm Jeremy!
 
-I'm a physicist turned AI engineer. By day I build AI solutions, multi-agent systems and RAG pipelines for large enterprises and by night I contribute to my climbing gym's operations. This repo is where I keep track of some pet projects, some student assignments, and some apps actually used in the climbing gym.
+I'm a physicist turned AI engineer. By day I build AI solutions, multi-agent systems and RAG pipelines for large enterprises and by night I contribute to my climbing gym's operations. This profile is where I keep track of some pet projects, some student assignments, and some apps actually used in the climbing gym.
 
 **What's here**
 
 - [**DimonAPP**](https://github.com/Jeremy009/BMC-DimonAPP-Public): worker admin and Dimona declarations for the climbing club I run, deployed on GCP, with an [MCP server](https://github.com/Jeremy009/BMC-DimonAPP-Public#asking-claude-the-mcp-server) that lets admins query it from Claude without any personal data reaching the model
+- [**CV25 YOLO converter**](https://github.com/Jeremy009/TOY-CV25): a toy converter that makes a YOLOv5 detector run on the AI accelerator of an AXIS camera (Ambarella CV25), with its own quantization and code generation. Curated view: the chip-specific parts are shown as outlines
 - [**BMC Caisse**](https://github.com/Jeremy009/BMC-Caisse-Python): the club's legacy till app, first version in [C++](https://github.com/Jeremy009/BMC-Caisse-Cpp) and second version in [Python](https://github.com/Jeremy009/BMC-Caisse-Python)
 - [**Coinbot**](https://github.com/Jeremy009/TOY-Coinbot): a toy crypto trading bot with a SwiftUI front end. One day I will finish what I have started...
 - [**PET reconstruction**](https://github.com/Jeremy009/VUB-PET-Reconstruction): my master thesis, comparing two algorithms (MLEM and ISRA) that reconstruct PET scans, in MATLAB
